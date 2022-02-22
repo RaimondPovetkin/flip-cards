@@ -20,7 +20,6 @@ function createArr(rows, cols){
   
         for(var j=0; j < cols; j++){
           // Initializes:
-          let num = 4;
           /* console.log (i.toString() + j.toString());  */
           arr1[i][j] = r;
           r++;
