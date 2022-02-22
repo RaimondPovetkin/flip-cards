@@ -55,7 +55,7 @@ body{
   padding: 10px;
   backface-visibility: hidden;
 }
-.flipcard .back
+.flipcard .back /* comment */
 {
   position:absolute;
   width: 100%;
